@@ -1,3 +1,3 @@
 main: [@engrammed](https://github.com/engrammed)
 
-this is an inside joke im against the themes of spree
+i do not support the themes of spree
