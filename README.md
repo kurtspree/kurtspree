@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-$${\color{white}hi}$$
+${\color{white}hi}$
 </p>
