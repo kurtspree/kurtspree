@@ -1,3 +1,3 @@
-main: [@engrammed](https://github.com/engrammed)
-
-im kurt spree
+<p align="center">
+  <img src="https://tenor.com/v5hYSjbE5Vo.gif" alt="Alt text description">
+</p>
